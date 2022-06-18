@@ -1,0 +1,1 @@
+<div id="main-wrapper"><!--Za sadrzaj koji vraca ajax-->
